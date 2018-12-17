@@ -1,0 +1,76 @@
+<resources>
+
+    <string name="app_name">Mission ImpoSoeul</string>
+
+    <string name="title01"> 비밀 레시피 </string>
+    <string name="level01"> 난이도 : ★☆☆☆☆ </string>
+    <string name="explain01"> 이영돈의 먹거리x파일 -금지된 레시피 </string>
+    <string name="picture01"> susi </string>
+    <string name="ex01"> 1. 족발로 가장 유명한 지역을 찾아 정말로 맛있는지 확인하라. </string>
+    <string name="qz01"> 2. 신당동에서 가장 유명한 음식은 무엇인지 찾아서 추적하라. </string>
+    <string name="ms01"> 3. 성내동에는 다리가 8개인 매콤한 ***볶음이 유명하다고 하다. 찾아서 확인하라. </string>
+
+
+    <string name="title02"> 우로보로스 </string>
+    <string name="level02"> 난이도 : ★★★☆☆</string>
+    <string name="explain02"> 서울 지하에 얽혀있는 뱀들 중 하나를 타고 떠나는 여행 </string>
+    <string name="picture02"> don </string>
+    <string name="ex02"> 홍대입구</string>>
+    <string name="qz02"> 건대입구</string>
+    <string name="ms02"> 잠실 </string>
+
+
+    <string name="title03"> 가장 높은곳, 가장 높은 사람 </string>
+    <string name="level03"> 난이도 : ★★★★★ </string>
+    <string name="explain03"> 서울의 과거와 현재 여행 </string>
+    <string name="picture03"> po </string>
+    <string name="ex03"> 1. 한국관광공사 서울센터에는 비밀의 만들기 체험이 있다고 한다. 한복을 입은 채 체험에 참여하여 무엇을 만드는것인지 알아오라. </string>
+    <string name="qz03"> 2. 조선 최고의 성군과 성웅이 지키는 광장을 찾고 그 지하에 잠들어 있는 그들의 이야기를 목격하라. </string>
+    <string name="ms03"> 3. 남산타워 </string>
+
+    <string name="title04"> 가장 높은곳, 가장 높은 사람 </string>
+    <string name="level04"> 난이도 : ★★★★★ </string>
+    <string name="esplain04"> 아아 </string>
+    <string name="picture04"> susi </string>
+    <string name="ex04"> 1. 한국관광공사 서울센터에는 비밀의 만들기 체험이 있다고 한다. 한복을 입은 채 체험에 참여하여 무엇을 만드는것인지 알아오라. </string>
+    <string name="qz04"> 2. 조선 최고의 성군과 성웅이 지키는 광장을 찾고 그 지하에 잠들어 있는 그들의 이야기를 목격하라. </string>
+    <string name="ms04"> 3. 남산타워 </string>
+
+    <string name="title05"> 가장 높은곳, 가장 높은 사람 </string>
+    <string name="level05"> 난이도 : ★★★★★ </string>
+    <string name="esplain05"> 아아 </string>
+    <string name="picture05"> susi </string>
+    <string name="ex05"> 1. 한국관광공사 서울센터에는 비밀의 만들기 체험이 있다고 한다. 한복을 입은 채 체험에 참여하여 무엇을 만드는것인지 알아오라. </string>
+    <string name="qz05"> 2. 조선 최고의 성군과 성웅이 지키는 광장을 찾고 그 지하에 잠들어 있는 그들의 이야기를 목격하라. </string>
+    <string name="ms05"> 3. 남산타워 </string>
+
+    <string name="question_1">1. Which of these is the official language for Android development?</string>
+    <string name="Java">Java</string>
+    <string name="Python">Python</string>
+    <string name="CSharp">C#</string>
+    <string name="JavaScript">JavaScript</string>
+    <string name="submit">정답확인</string>
+
+    <string name="question_2">2. 한국의 수도는 어디입니까?</string>
+
+    <string name="question_3">3. Which of the following are current or past versions of Android? </string>
+    <string name="biscuit">Biscuit</string>
+    <string name="nougat">Nougat</string>
+    <string name="eclair">Eclair</string>
+
+    <string name="question_4">4. What is the highest API level for Android Ice Cream Sandwich? </string>
+    <string name="question_5">5. 독도는 어느나라의 땅인가요?  </string>
+    <string name="question_6">6. 각시탈 정체는 누구인가?  </string>
+
+    <string name="answer01"> answer01 </string>
+    <string name="answer02"> answer02 </string>
+    <string name="answer03"> answer03 </string>
+
+    <string name="as01"> as01 </string>
+    <string name="as02"> as02 </string>
+    <string name="as03"> as03 </string>
+
+    <string name="aw01"> aw01 </string>
+    <string name="aw02"> aw02 </string>
+    <string name="aw03"> aw03 </string>
+</resources>

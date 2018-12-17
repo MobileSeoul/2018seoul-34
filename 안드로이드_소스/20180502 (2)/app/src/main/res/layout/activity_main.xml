@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content" >
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="@color/colorPrimary">
+
+
+    <!--
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:background="@drawable/shape_list"
+        android:id="@+id/item01"
+        android:tag="01"
+        android:clickable="true"
+        android:onClick="displayPicture"
+        android:layout_marginBottom="10dp">
+
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="2"
+            android:orientation="vertical" >
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:layout_marginBottom="10dp"
+                android:layout_weight="1"
+                android:paddingRight="1sp"
+                android:src="@drawable/susi" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="17dp"
+                android:layout_gravity="center"
+                android:text="@string/title01"
+                android:textColor="#51ef45"
+                android:textSize="20dp"
+                android:textStyle="bold" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/level01"
+                android:textColor="#51ef45"
+                android:layout_gravity="center"
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/explain01"
+                android:textColor="#51ef45"
+                android:layout_gravity="center"/>
+
+        </LinearLayout>
+
+    </LinearLayout>
+    -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:background="@drawable/shape_list"
+        android:id="@+id/item01"
+        android:tag="01"
+        android:clickable="true"
+        android:onClick="displayPicture"
+        android:layout_marginBottom="10dp">
+
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="2"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="300dp"
+                android:src="@drawable/susi"
+                android:paddingRight="5sp"
+                android:layout_weight="1"
+                android:adjustViewBounds="true"
+                android:layout_gravity="center"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/title01"
+                android:textColor="#51ef45"
+                android:textStyle="bold"
+                android:textSize="20dp"
+                android:layout_gravity="center"
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#51ef45"
+                android:text="@string/level01"
+                android:layout_gravity="center"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#51ef45"
+                android:text="@string/explain01"
+                android:layout_gravity="center"/>
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:background="@drawable/shape_list"
+        android:id="@+id/item02"
+        android:tag="02"
+        android:clickable="true"
+        android:onClick="displayPicture"
+        android:layout_marginBottom="10dp">
+
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="2"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="300dp"
+                android:layout_gravity="center"
+                android:layout_marginBottom="30dp"
+                android:layout_weight="1"
+                android:adjustViewBounds="true"
+                android:paddingRight="5sp"
+                android:src="@drawable/don" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="@string/title02"
+                android:textColor="#51ef45"
+                android:textSize="20dp"
+                android:textStyle="bold"
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#51ef45"
+                android:text="@string/level02"
+                android:layout_gravity="center"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#51ef45"
+                android:text="@string/explain02"
+                android:layout_gravity="center"/>
+        </LinearLayout>
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:background="@drawable/shape_list"
+        android:id="@+id/item03"
+        android:tag="03"
+        android:clickable="true"
+        android:onClick="displayPicture"
+        android:layout_marginBottom="10dp">
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="2"
+            android:orientation="vertical" >
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="300dp"
+                android:src="@drawable/po"
+                android:paddingRight="5sp"
+                android:layout_weight="1"
+                android:adjustViewBounds="true"
+                android:layout_gravity="center"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/title03"
+                android:textColor="#51ef45"
+                android:textStyle="bold"
+                android:textSize="20dp"
+                android:layout_gravity="center"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/level03"
+                android:textColor="#51ef45"
+                android:layout_gravity="center"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#51ef45"
+                android:text="@string/explain03"
+                android:layout_gravity="center"/>
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>
+    </ScrollView>
